@@ -1,0 +1,89 @@
+h1{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-style: italic;
+}
+body{
+    background-color: black;
+}
+#ghost{
+    width:400px;
+    height:400px;
+    object-fit: fill;
+    border: 10px solid white;
+    position: absolute;
+    left: 27%;
+}
+#jason{
+    width:400px;
+    height:400px;
+    border: 10px solid white;
+    object-fit: fill;
+    position: absolute;
+    left:42%;
+}
+#annabelle{
+    width:400px;
+    height:400px;
+    object-fit: fill;
+    border: 10px solid white;
+    position: absolute;
+    right:27%;
+}
+#freddy{
+    width:400px;
+    height:400px;
+    object-fit: fill;
+    border: 10px solid white;
+    position: absolute;
+    left: 27%;
+    top: 39%;
+}
+#fnaf{
+    width:400px;
+    height:400px;
+    object-fit: fill;
+    border: 10px solid white;
+    position: absolute;
+    left: 42%;
+    top: 39%;
+}
+#leather{
+    width:400px;
+    height:400px;
+    object-fit: fill;
+    border: 10px solid white;
+    position: absolute;
+    right: 27%;
+    top: 39%;
+}
+#pyramid{
+    width:400px;
+    height:400px;
+    object-fit: fill;
+    border: 10px solid white;
+    position: absolute;
+    left: 42%;
+    top: 68%;
+}
+#penny{
+    width:400px;
+    height:400px;
+    object-fit: fill;
+    border: 10px solid white;
+    position: absolute;
+    left: 27%;
+    top: 68%;
+}
+#myers{
+    width:400px;
+    height:400px;
+    object-fit: fill;
+    border: 10px solid white;
+    position: absolute;
+    right: 27%;
+    top: 68%;
+}
+
